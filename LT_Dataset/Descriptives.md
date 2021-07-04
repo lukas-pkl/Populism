@@ -72,6 +72,49 @@ There are **27 128** manifesto paragraphs in the dataset. That constititutes **~
 
 ## Media
 
+There are **132 205** media paragrpahs. They constitute **~82.9%** of the full dataset. 
+
+### Table 4: Media paragraph count by source
+
+| Sources          | Paragrpah Count | Share (%) |
+|------------------|-----------------|-----------|
+| delfi.lt/        | 53404           | 40.3      |
+| tsajunga.lt/     | 24445           | 18.4      |
+| darbopartija.lt/ | 18577           | 14        |
+| lsdp.lt/         | 10933           | 8.2       |
+| liberalai.lt/    | 6238            | 4.7       |
+| lsddp.org/       | 6095            | 4.6       |
+| lvzs.lt/lt/      | 5655            | 4.2       |
+| awpl.lt/?lang=lt | 5212            | 3.9       |
+| propatria.lt/    | 1373            | 1         |
+| tvarka.lt/       | 273             | 0.2       |
+
+### Table 5: Media pragraph count by affiliation
+
+| Affiliation | Paragraph Count | Share (%) |
+|-------------|-----------------|-----------|
+| TS-LKD      | 45740           | 34.5      |
+| LSDP        | 25441           | 19.2      |
+| DP          | 22632           | 17.1      |
+| LRLS        | 10770           | 8.1       |
+| LVZS        | 8201            | 6.2       |
+| LSDDP       | 6659            | 5         |
+| LLRA        | 5229            | 3.9       |
+| TT          | 2434            | 1.8       |
+| NS          | 1450            | 1         |
+| ZUOK        | 938             | 0.7       |
+| DK          | 669             | 0.5       |
+| LZP         | 618             | 0.4       |
+| LIC         | 507             | 0.3       |
+| LP          | 363             | 0.2       |
+| taut        | 166             | 0.1       |
+| CP          | 158             | 0.1       |
+| Front       | 69              | 0         |
+| NaujSaj     | 63              | 0         |
+| LLS         | 42              | 0         |
+| LS          | 37              | 0         |
+| LLP         | 19              | 0         |
+
 
 
 
