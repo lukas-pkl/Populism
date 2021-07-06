@@ -167,24 +167,23 @@ There are **132 040** media paragrpahs. They constitute **~82.9%** of the full d
 
 ### Table 8: Delfi paragraph count by year
 
-| | Year | Paragraph Count | Share (%) | Parties Covered                                                                                          | |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| |------|-----------------|-----------|----------------------------------------------------------------------------------------------------------| |
-| | 2016 | 8792            | 16.4      | ['DP', 'LLS', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                                     | |
-| | 2015 | 7808            | 14.6      | ['DK', 'DP', 'LLP', 'LLS', 'LRLS', 'LS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut'] | |
-| | 2014 | 6474            | 12.1      | ['DK', 'DP', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut']                              | |
-| | 2017 | 5637            | 10.5      | ['DP', 'LLS', 'LRLS', 'LS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                               | |
-| | 2013 | 4317            | 8         | ['DK', 'DP', 'LIC', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut']                       | |
-| | 2019 | 4219            | 7.9       | ['CP', 'DP', 'LLRA', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'NS', 'TS-LKD', 'TT', 'ZUOK']         | |
-| | 2018 | 4088            | 7.6       | ['DP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                                   | |
-| | 2012 | 3804            | 7.1       | ['DK', 'DP', 'LIC', 'LRLS', 'LSDP', 'LVZS', 'TS-LKD', 'TT', 'ZUOK', 'taut']                              | |
-| | 2020 | 3451            | 6.4       | ['CP', 'DP', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'NS', 'TS-LKD', 'ZUOK']                       | |
-| | 2011 | 3348            | 6.2       | ['CP', 'DP', 'Front', 'LIC', 'LRLS', 'LSDP', 'LVZS', 'TS-LKD', 'TT', 'ZUOK']                             | |
-| | 2010 | 895             | 1.6       | ['CP', 'DP', 'LRLS', 'LSDP', 'TS-LKD', 'TT']                                                             | |
-| | 2009 | 436             | 0.8       | ['DP', 'Front', 'LSDP', 'LVZS', 'NaujSaj', 'TS-LKD', 'TT']                                               | |
-| | 2008 | 84              | 0.1       | ['NaujSaj', 'TS-LKD']                                                                                    | |
-| | 2007 | 41              | 0         | ['LRLS', 'LSDP', 'TT']                                                                                   | |
-| | 2006 | 10              | 0         | ['LRLS']                                                                                                 | |
+| Year | Paragraph Count | Share (%) | Parties Covered                                                                                          |
+|------|-----------------|-----------|----------------------------------------------------------------------------------------------------------|
+| 2016 | 8792            | 16.4      | ['DP', 'LLS', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                                     |
+| 2015 | 7808            | 14.6      | ['DK', 'DP', 'LLP', 'LLS', 'LRLS', 'LS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut'] |
+| 2014 | 6474            | 12.1      | ['DK', 'DP', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut']                              |
+| 2017 | 5637            | 10.5      | ['DP', 'LLS', 'LRLS', 'LS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                               |
+| 2013 | 4317            | 8         | ['DK', 'DP', 'LIC', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut']                       |
+| 2019 | 4219            | 7.9       | ['CP', 'DP', 'LLRA', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'NS', 'TS-LKD', 'TT', 'ZUOK']         |
+| 2018 | 4088            | 7.6       | ['DP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                                   |
+| 2012 | 3804            | 7.1       | ['DK', 'DP', 'LIC', 'LRLS', 'LSDP', 'LVZS', 'TS-LKD', 'TT', 'ZUOK', 'taut']                              |
+| 2020 | 3451            | 6.4       | ['CP', 'DP', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'NS', 'TS-LKD', 'ZUOK']                       |
+| 2011 | 3348            | 6.2       | ['CP', 'DP', 'Front', 'LIC', 'LRLS', 'LSDP', 'LVZS', 'TS-LKD', 'TT', 'ZUOK']                             |
+| 2010 | 895             | 1.6       | ['CP', 'DP', 'LRLS', 'LSDP', 'TS-LKD', 'TT']                                                             |
+| 2009 | 436             | 0.8       | ['DP', 'Front', 'LSDP', 'LVZS', 'NaujSaj', 'TS-LKD', 'TT']                                               |
+| 2008 | 84              | 0.1       | ['NaujSaj', 'TS-LKD']                                                                                    |
+| 2007 | 41              | 0         | ['LRLS', 'LSDP', 'TT']                                                                                   |
+| 2006 | 10              | 0         | ['LRLS']                                                                                                 |
 
 
 
