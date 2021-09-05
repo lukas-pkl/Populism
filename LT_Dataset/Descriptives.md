@@ -98,16 +98,16 @@ There are **30 972** manifesto paragraphs in the dataset. That constititutes **~
 
 ### Table 3: Manifesto Paragraph Count by Election Year
 
-| Election Year | Paragraph Count | Share (%) | Manifestos Covered                                                                                                                                                                       |
-|---------------|-----------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2020          | 7247            | 23.3      | ['DK', 'DP', 'KRIKSCIONIU_SAJUNGA', 'LLP', 'LLRA', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'Laisve_Teisingumas', 'Lietuva_Visu', 'Lietuvos_Sarasas', 'NS', 'TS-LKD']               |
-| 2016          | 6680            | 21.5      | ['DK', 'DP', 'LLP', 'LLRA', 'LRLS', 'LS', 'LSDP', 'LVZS', 'LZP', 'PUTEIKIS', 'TS-LKD', 'TT', 'taut']                                                                                     |
-| 2012          | 4387            | 14.1      | ['DK', 'DP', 'Front', 'KRIKSCIONIU_SAJUNGA', 'LIC', 'LLRA', 'LRLS', 'LSDP', 'LVZS', 'Liaudies_Sajunga', 'Nacionalines_Vienybes_Sajunga', 'Respublikonu_Partija', 'TS-LKD', 'TT', 'ZUOK'] |
-| 2000          | 3972            | 12.8      | ['CP', 'LKDP', 'LKDS', 'LLRA', 'LLS', 'LPKTS', 'LRLS', 'LSDP', 'Liaudies_Sajunga', 'NS', 'TS-LKD', 'taut']                                                                               |
-| 2008          | 3459            | 11.1      | ['CP', 'DP', 'Front', 'LIC', 'LLRA', 'LRLS', 'LSDP', 'LSDS', 'Lietuvos_Rusu_Sajunga', 'NaujSaj', 'Pilietines_Demokratijos_Partija', 'TPP', 'TS-LKD', 'TT']                               |
-| 1996          | 2118            | 6.8       | ['CP', 'LDDP', 'LDP', 'LKDP', 'LSDP', 'TS-LKD']                                                                                                                                          |
-| 2004          | 2099            | 6.7       | ['CP', 'DP', 'KRIKSCIONIU_SAJUNGA', 'LIC', 'LKDP', 'LLRA', 'LS', 'LSDP', 'LSDS', 'LVZS', 'Lietuvos_Kelias', 'Respublikonu_Partija', 'TS-LKD', 'TT', 'taut']                              |
-| 1992          | 1010            | 3.2       | ['CP', 'LDDP', 'LDP', 'LKDP', 'LLRA', 'LPKTS', 'LSDP', 'taut']                                                                                                                           |
+| Election Year | Paragraph Count | Share (%) | Manifestos Covered                                                                                                                                                         |
+|---------------|-----------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2020          | 7247            | 23.3      | ['DK', 'DP', 'KRIKSCIONIU_SAJUNGA', 'LLP', 'LLRA', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'Laisve_Teisingumas', 'Lietuva_Visu', 'Lietuvos_Sarasas', 'NS', 'TS-LKD'] |
+| 2016          | 6680            | 21.5      | ['DK', 'DP', 'LLP', 'LLRA', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'Lietuvos_Sarasas', 'PUTEIKIS', 'TS-LKD', 'TT', 'taut']                                                         |
+| 2012          | 4387            | 14.1      | ['DK', 'DP', 'Front', 'LIC', 'LKP', 'LLRA', 'LRLS', 'LSDP', 'LVZS', 'Liaudies_Sajunga', 'Nacionalines_Vienybes_Sajunga', 'Respublikonu_Partija', 'TS-LKD', 'TT', 'ZUOK']   |
+| 2000          | 3972            | 12.8      | ['CP', 'LKDP', 'LKDS', 'LLRA', 'LLS', 'LPKTS', 'LRLS', 'LSDP', 'Liaudies_Sajunga', 'NS', 'TS-LKD', 'taut']                                                                 |
+| 2008          | 3459            | 11.1      | ['CP', 'DP', 'Front', 'LIC', 'LLRA', 'LRLS', 'LSDP', 'LSDS', 'Lietuvos_Rusu_Sajunga', 'NaujSaj', 'Pilietines_Demokratijos_Partija', 'TPP', 'TS-LKD', 'TT']                 |
+| 1996          | 2118            | 6.8       | ['CP', 'LDDP', 'LDP', 'LKDP', 'LSDP', 'TS-LKD']                                                                                                                            |
+| 2004          | 2099            | 6.7       | ['CP', 'DP', 'KRIKSCIONIU_SAJUNGA', 'LIC', 'LKDP', 'LLRA', 'LSDP', 'LSDS', 'LVZS', 'Lietuvos_Kelias', 'Lietuvos_Sarasas', 'Respublikonu_Partija', 'TS-LKD', 'TT', 'taut']  |
+| 1992          | 1010            | 3.2       | ['CP', 'LDDP', 'LDP', 'LKDP', 'LLRA', 'LPKTS', 'LSDP', 'taut']                                                                                                             |
 
 ## Media
 
