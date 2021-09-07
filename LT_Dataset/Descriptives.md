@@ -12,7 +12,7 @@ This document presents key descriptive statistics for the Lithuanian Populist Di
 | LSDP                            | 29514 | 17.9      |
 | DP                              | 24843 | 15.1      |
 | LRLS                            | 14813 | 9         |
-| LVZS                            | 9769  | 5.9       |
+| LVZS                            | 9781  | 5.9       |
 | LSDDP                           | 6968  | 4.2       |
 | LLRA                            | 6166  | 3.7       |
 | TT                              | 3698  | 2.2       |
@@ -30,8 +30,8 @@ This document presents key descriptive statistics for the Lithuanian Populist Di
 | LDDP                            | 270   | 0.1       |
 | LPKTS                           | 242   | 0.1       |
 | Lietuva_Visu                    | 221   | 0.1       |
-| TPP                             | 204   | 0.1       |
 | LLP                             | 204   | 0.1       |
+| TPP                             | 204   | 0.1       |
 | Lietuvos_Sarasas                | 188   | 0.1       |
 | LKDS                            | 170   | 0.1       |
 | LS                              | 159   | 0         |
@@ -46,7 +46,6 @@ This document presents key descriptive statistics for the Lithuanian Populist Di
 | Respublikonu_Partija            | 27    | 0         |
 | Lietuvos_Kelias                 | 24    | 0         |
 | Lietuvos_Rusu_Sajunga           | 17    | 0         |
-| LVZP                            | 12    | 0         |
 | Pilietines_Demokratijos_Partija | 7     | 0         |
 
 ## Manifestos 
@@ -71,21 +70,21 @@ There are **30 972** manifesto paragraphs in the dataset. That constititutes **~
 | DK                              | 567             | 1.8       | [2012, 2016, 2020]                               |
 | LZP                             | 541             | 1.7       | [2016, 2020]                                     |
 | LSDDP                           | 430             | 1.3       | [2020]                                           |
+| Lietuvos_Sarasas                | 310             | 1         | [2004, 2016, 2020]                               |
 | Nacionalines_Vienybes_Sajunga   | 284             | 0.9       | [2012]                                           |
 | LDDP                            | 270             | 0.8       | [1992, 1996]                                     |
 | LPKTS                           | 242             | 0.7       | [1992, 2000]                                     |
 | Lietuva_Visu                    | 221             | 0.7       | [2020]                                           |
 | ZUOK                            | 207             | 0.6       | [2012]                                           |
-| Lietuvos_Sarasas                | 188             | 0.6       | [2020]                                           |
 | LLP                             | 185             | 0.5       | [2016, 2020]                                     |
 | LKDS                            | 170             | 0.5       | [2000]                                           |
 | LDP                             | 154             | 0.4       | [1992, 1996]                                     |
 | Laisve_Teisingumas              | 141             | 0.4       | [2020]                                           |
-| KRIKSCIONIU_SAJUNGA             | 124             | 0.4       | [2004, 2012, 2020]                               |
-| LS                              | 122             | 0.3       | [2004, 2016]                                     |
 | taut                            | 111             | 0.3       | [1992, 2000, 2004, 2016]                         |
 | TPP                             | 90              | 0.2       | [2008]                                           |
+| KRIKSCIONIU_SAJUNGA             | 84              | 0.2       | [2020]                                           |
 | NaujSaj                         | 52              | 0.1       | [2008]                                           |
+| LKP                             | 40              | 0.1       | [2004, 2012]                                     |
 | LSDS                            | 40              | 0.1       | [2004, 2008]                                     |
 | Liaudies_Sajunga                | 37              | 0.1       | [2000, 2012]                                     |
 | Respublikonu_Partija            | 27              | 0         | [2004, 2012]                                     |
@@ -106,9 +105,8 @@ There are **30 972** manifesto paragraphs in the dataset. That constititutes **~
 | 2000          | 3972            | 12.8      | ['CP', 'LKDP', 'LKDS', 'LLRA', 'LLS', 'LPKTS', 'LRLS', 'LSDP', 'Liaudies_Sajunga', 'NS', 'TS-LKD', 'taut']                                                                 |
 | 2008          | 3459            | 11.1      | ['CP', 'DP', 'Front', 'LIC', 'LLRA', 'LRLS', 'LSDP', 'LSDS', 'Lietuvos_Rusu_Sajunga', 'NaujSaj', 'Pilietines_Demokratijos_Partija', 'TPP', 'TS-LKD', 'TT']                 |
 | 1996          | 2118            | 6.8       | ['CP', 'LDDP', 'LDP', 'LKDP', 'LSDP', 'TS-LKD']                                                                                                                            |
-| 2004          | 2099            | 6.7       | ['CP', 'DP', 'KRIKSCIONIU_SAJUNGA', 'LIC', 'LKDP', 'LLRA', 'LSDP', 'LSDS', 'LVZS', 'Lietuvos_Kelias', 'Lietuvos_Sarasas', 'Respublikonu_Partija', 'TS-LKD', 'TT', 'taut']  |
+| 2004          | 2099            | 6.7       | ['CP', 'DP', 'LIC', 'LKDP', 'LKP', 'LLRA', 'LSDP', 'LSDS', 'LVZS', 'Lietuvos_Kelias', 'Lietuvos_Sarasas', 'Respublikonu_Partija', 'TS-LKD', 'TT', 'taut']                  |
 | 1992          | 1010            | 3.2       | ['CP', 'LDDP', 'LDP', 'LKDP', 'LLRA', 'LPKTS', 'LSDP', 'taut']                                                                                                             |
-
 ## Media
 
 There are **133 303** media paragrpahs. They constitute **~81** of the full dataset. 
@@ -130,34 +128,33 @@ There are **133 303** media paragrpahs. They constitute **~81** of the full data
 
 ### Table 5: Media pragraph count by affiliation
 
-| Affiliation         | Paragraph Count | Share (%) |
-|---------------------|-----------------|-----------|
-| TS-LKD              | 45752           | 34.3      |
-| LSDP                | 25452           | 19        |
-| DP                  | 22632           | 16.9      |
-| LRLS                | 10901           | 8.1       |
-| LVZS                | 8201            | 6.1       |
-| LSDDP               | 6538            | 4.9       |
-| LLRA                | 5217            | 3.9       |
-| TT                  | 2434            | 1.8       |
-| NS                  | 1497            | 1.1       |
-| ZUOK                | 1041            | 0.7       |
-| KRIKSCIONIU_SAJUNGA | 694             | 0.5       |
-| DK                  | 669             | 0.5       |
-| LZP                 | 618             | 0.4       |
-| LIC                 | 507             | 0.3       |
-| LP                  | 363             | 0.2       |
-| taut                | 166             | 0.1       |
-| CP                  | 158             | 0.1       |
-| TPP                 | 114             | 0         |
-| Front               | 69              | 0         |
-| NaujSaj             | 63              | 0         |
-| PUTEIKIS            | 59              | 0         |
-| LKDP                | 48              | 0         |
-| LLS                 | 42              | 0         |
-| LS                  | 37              | 0         |
-| LLP                 | 19              | 0         |
-| LVZP                | 12              | 0         |
+| Affiliation      | Paragraph Count | Share (%) |
+|------------------|-----------------|-----------|
+| TS-LKD           | 45752           | 34.3      |
+| LSDP             | 25452           | 19        |
+| DP               | 22632           | 16.9      |
+| LRLS             | 10901           | 8.1       |
+| LVZS             | 8213            | 6.1       |
+| LSDDP            | 6538            | 4.9       |
+| LLRA             | 5217            | 3.9       |
+| TT               | 2434            | 1.8       |
+| NS               | 1497            | 1.1       |
+| ZUOK             | 1041            | 0.7       |
+| LKP              | 694             | 0.5       |
+| DK               | 669             | 0.5       |
+| LZP              | 618             | 0.4       |
+| LIC              | 507             | 0.3       |
+| LP               | 363             | 0.2       |
+| taut             | 166             | 0.1       |
+| CP               | 158             | 0.1       |
+| TPP              | 114             | 0         |
+| Front            | 69              | 0         |
+| NaujSaj          | 63              | 0         |
+| PUTEIKIS         | 59              | 0         |
+| LKDP             | 48              | 0         |
+| LLS              | 42              | 0         |
+| Lietuvos_Sarasas | 37              | 0         |
+| LLP              | 19              | 0         |
 
 ### Table 6: Media paragraph count by year
 
@@ -185,54 +182,53 @@ There are **133 303** media paragrpahs. They constitute **~81** of the full data
 
 ### Table 7: Delfi paragrpah count by affiliation
 
-| Affiliation         | Paragraph Count | Share (%) |
-|---------------------|-----------------|-----------|
-| TS-LKD              | 21307           | 38.9      |
-| LSDP                | 14519           | 26.5      |
-| LRLS                | 4663            | 8.5       |
-| DP                  | 4055            | 7.4       |
-| LVZS                | 2546            | 4.6       |
-| TT                  | 2161            | 3.9       |
-| ZUOK                | 1041            | 1.9       |
-| KRIKSCIONIU_SAJUNGA | 694             | 1.2       |
-| DK                  | 669             | 1.2       |
-| LZP                 | 618             | 1.1       |
-| LSDDP               | 596             | 1         |
-| LIC                 | 507             | 0.9       |
-| LP                  | 363             | 0.6       |
-| taut                | 166             | 0.3       |
-| CP                  | 158             | 0.2       |
-| NS                  | 124             | 0.2       |
-| TPP                 | 114             | 0.2       |
-| Front               | 69              | 0.1       |
-| NaujSaj             | 63              | 0.1       |
-| PUTEIKIS            | 59              | 0.1       |
-| LKDP                | 48              | 0         |
-| LLS                 | 42              | 0         |
-| LS                  | 37              | 0         |
-| LLP                 | 19              | 0         |
-| LLRA                | 17              | 0         |
-| LVZP                | 12              | 0         |
+| Affiliation      | Paragraph Count | Share (%) |
+|------------------|-----------------|-----------|
+| TS-LKD           | 21307           | 38.9      |
+| LSDP             | 14519           | 26.5      |
+| LRLS             | 4663            | 8.5       |
+| DP               | 4055            | 7.4       |
+| LVZS             | 2558            | 4.6       |
+| TT               | 2161            | 3.9       |
+| ZUOK             | 1041            | 1.9       |
+| LKP              | 694             | 1.2       |
+| DK               | 669             | 1.2       |
+| LZP              | 618             | 1.1       |
+| LSDDP            | 596             | 1         |
+| LIC              | 507             | 0.9       |
+| LP               | 363             | 0.6       |
+| taut             | 166             | 0.3       |
+| CP               | 158             | 0.2       |
+| NS               | 124             | 0.2       |
+| TPP              | 114             | 0.2       |
+| Front            | 69              | 0.1       |
+| NaujSaj          | 63              | 0.1       |
+| PUTEIKIS         | 59              | 0.1       |
+| LKDP             | 48              | 0         |
+| LLS              | 42              | 0         |
+| Lietuvos_Sarasas | 37              | 0         |
+| LLP              | 19              | 0         |
+| LLRA             | 17              | 0         |
 
 ### Table 8: Delfi paragraph count by year
 
-| Year | Paragraph Count | Share (%) | Parties Covered                                                                                                      |
-|------|-----------------|-----------|----------------------------------------------------------------------------------------------------------------------|
-| 2016 | 8885            | 16.2      | ['DP', 'LLS', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                                                 |
-| 2015 | 7874            | 14.4      | ['DK', 'DP', 'LLP', 'LLS', 'LRLS', 'LS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'PUTEIKIS', 'TS-LKD', 'TT', 'ZUOK', 'taut'] |
-| 2014 | 6488            | 11.8      | ['DK', 'DP', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut']                                          |
-| 2017 | 5683            | 10.3      | ['DP', 'LLS', 'LRLS', 'LS', 'LSDP', 'LVZS', 'LZP', 'PUTEIKIS', 'TS-LKD', 'TT', 'ZUOK']                               |
-| 2013 | 4361            | 7.9       | ['DK', 'DP', 'KRIKSCIONIU_SAJUNGA', 'LIC', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut']            |
-| 2019 | 4277            | 7.8       | ['CP', 'DP', 'LKDP', 'LLRA', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'NS', 'TS-LKD', 'TT', 'ZUOK']             |
-| 2018 | 4109            | 7.5       | ['DP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                                               |
-| 2012 | 4041            | 7.3       | ['DK', 'DP', 'KRIKSCIONIU_SAJUNGA', 'LIC', 'LRLS', 'LSDP', 'LVZP', 'LVZS', 'TS-LKD', 'TT', 'ZUOK', 'taut']           |
-| 2011 | 3706            | 6.7       | ['CP', 'DP', 'Front', 'KRIKSCIONIU_SAJUNGA', 'LIC', 'LRLS', 'LSDP', 'LVZS', 'TPP', 'TS-LKD', 'TT', 'ZUOK']           |
-| 2020 | 3566            | 6.5       | ['CP', 'DP', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'NS', 'TS-LKD', 'ZUOK']                                   |
-| 2010 | 1007            | 1.8       | ['CP', 'DP', 'KRIKSCIONIU_SAJUNGA', 'LRLS', 'LSDP', 'TPP', 'TS-LKD', 'TT']                                           |
-| 2009 | 530             | 0.9       | ['DP', 'Front', 'KRIKSCIONIU_SAJUNGA', 'LSDP', 'LVZS', 'NaujSaj', 'TPP', 'TS-LKD', 'TT']                             |
-| 2008 | 84              | 0.1       | ['NaujSaj', 'TS-LKD']                                                                                                |
-| 2007 | 46              | 0         | ['LKDP', 'LRLS', 'LSDP', 'TT']                                                                                       |
-| 2006 | 10              | 0         | ['LRLS']                                                                                                             |
+| Year | Paragraph Count | Share (%) | Parties Covered                                                                                                                    |
+|------|-----------------|-----------|------------------------------------------------------------------------------------------------------------------------------------|
+| 2016 | 8885            | 16.2      | ['DP', 'LLS', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                                                               |
+| 2015 | 7874            | 14.4      | ['DK', 'DP', 'LLP', 'LLS', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'Lietuvos_Sarasas', 'PUTEIKIS', 'TS-LKD', 'TT', 'ZUOK', 'taut'] |
+| 2014 | 6488            | 11.8      | ['DK', 'DP', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut']                                                        |
+| 2017 | 5683            | 10.3      | ['DP', 'LLS', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'Lietuvos_Sarasas', 'PUTEIKIS', 'TS-LKD', 'TT', 'ZUOK']                               |
+| 2013 | 4361            | 7.9       | ['DK', 'DP', 'LIC', 'LKP', 'LRLS', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK', 'taut']                                          |
+| 2019 | 4277            | 7.8       | ['CP', 'DP', 'LKDP', 'LLRA', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'NS', 'TS-LKD', 'TT', 'ZUOK']                           |
+| 2018 | 4109            | 7.5       | ['DP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'TS-LKD', 'TT', 'ZUOK']                                                             |
+| 2012 | 4041            | 7.3       | ['DK', 'DP', 'LIC', 'LKP', 'LRLS', 'LSDP', 'LVZS', 'TS-LKD', 'TT', 'ZUOK', 'taut']                                                 |
+| 2011 | 3706            | 6.7       | ['CP', 'DP', 'Front', 'LIC', 'LKP', 'LRLS', 'LSDP', 'LVZS', 'TPP', 'TS-LKD', 'TT', 'ZUOK']                                         |
+| 2020 | 3566            | 6.5       | ['CP', 'DP', 'LP', 'LRLS', 'LSDDP', 'LSDP', 'LVZS', 'LZP', 'NS', 'TS-LKD', 'ZUOK']                                                 |
+| 2010 | 1007            | 1.8       | ['CP', 'DP', 'LKP', 'LRLS', 'LSDP', 'TPP', 'TS-LKD', 'TT']                                                                         |
+| 2009 | 530             | 0.9       | ['DP', 'Front', 'LKP', 'LSDP', 'LVZS', 'NaujSaj', 'TPP', 'TS-LKD', 'TT']                                                           |
+| 2008 | 84              | 0.1       | ['NaujSaj', 'TS-LKD']                                                                                                              |
+| 2007 | 46              | 0         | ['LKDP', 'LRLS', 'LSDP', 'TT']                                                                                                     |
+| 2006 | 10              | 0         | ['LRLS']                                                                                                                           |
 
 
 
